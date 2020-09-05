@@ -5,7 +5,7 @@
 **Me uno al reto. 100 días haciendo un reto especifico para aprender a programar. **
 https://platzi.com/blog/como-aprender-a-programar-desde-cero-platzi/
 
-Me estoy entrenando para ser un Frontend Developer, por eso los retos los voy a resolver con <strong>Javascript</strong> y vinculandolos con interfaces en el navegador.
+Me estoy entrenando para ser un Frontend Developer, por eso los retos los voy a resolver con <strong>Javascript</strong> y <strong>React</strong> y vinculandolos con interfaces en el navegador.
 
 ### Página con los retos
 
