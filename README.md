@@ -11,7 +11,7 @@ Me estoy entrenando para ser un Frontend Developer, por eso los retos los voy a 
 
 https://arknull.github.io/platzi-100-coding-challenge/
 
-###Retos:
+### Retos:
 
 1. Hello World
 2. Área de un tríangulo
